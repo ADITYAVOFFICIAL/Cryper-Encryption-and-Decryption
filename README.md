@@ -26,3 +26,18 @@ Here's how Cryper compares to other popular encryption tools.
 | Audited        |❌ [Donate](https://opencollective.com/Cryper)     |✅ Yes          |❌ No          |❓ Unknown      |✅ Yes         |
 
 Keep in mind that while Cryper does most things better than other tools, it's not a one-size-fits-all and doesn't try to be. There are use cases such as full-disk encryption where VeraCrypt and BitLocker would be a better choice. So while Cryper is a great choice for the majority of people, you should still do your own research and use what's best for you.
+
+# Features
+While being simple, Cryper also strives to be powerful in the hands of knowledgeable and advanced users. Thus, there are some additional options that you may use to suit your needs.
+<ul>
+	<li><strong>Password generator</strong></li>
+	<li><strong>Comments</strong></li>
+	<li><strong>Keyfiles</strong></li>
+	<li><strong>Paranoid mode</strong></li>
+	<li><strong>Reed-Solomon</strong></li>
+	<li><strong>Force decrypt</strong></li>
+	<li><strong>Split into chunks</strong></li>
+	<li><strong>Compress files</strong></li>
+	<li><strong>Deniability</strong></li>
+	<li><strong>Recursively</strong></li>
+</ul>
