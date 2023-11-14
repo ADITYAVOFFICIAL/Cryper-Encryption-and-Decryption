@@ -1,10 +1,10 @@
-# Cyper-Encryption-and-Decryption
+# Cryper-Encryption-and-Decryption
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badges)
-![Forks](https://img.shields.io/github/forks/ADITYAVOFFICIAL/Cyper-Encryption-and-Decryption.svg)
-![Issues](https://img.shields.io/github/issues/ADITYAVOFFICIAL/Cyper-Encryption-and-Decryption.svg)
-![PR](https://img.shields.io/github/issues-pr/ADITYAVOFFICIAL/Cyper-Encryption-and-Decryption.svg)
+![Forks](https://img.shields.io/github/forks/ADITYAVOFFICIAL/Cryper-Encryption-and-Decryption.svg)
+![Issues](https://img.shields.io/github/issues/ADITYAVOFFICIAL/Cryper-Encryption-and-Decryption.svg)
+![PR](https://img.shields.io/github/issues-pr/ADITYAVOFFICIAL/Cryper-Encryption-and-Decryption.svg)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-![Views](https://views.whatilearened.today/views/github/ADITYAVOFFICIAL/Cyper-Encryption-and-Decryption.svg)
+![Views](https://views.whatilearened.today/views/github/ADITYAVOFFICIAL/Cryper-Encryption-and-Decryption.svg)
 
 <p align="center"><br><img align="center" src="ss.png" width="212" alt="Cryper"><br></p>
 <p>
@@ -86,7 +86,7 @@ While being simple, Cryper also strives to be powerful in the hands of knowledge
 
  ## Current Contributors 🔻
 <div align="center">
-  <a href="https://github.com/ADITYAVOFFICIAL/Cyper-Encryption-and-Decryption/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ADITYAVOFFICIAL/Cyper-Encryption-and-Decryption" />
+  <a href="https://github.com/ADITYAVOFFICIAL/Cryper-Encryption-and-Decryption/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ADITYAVOFFICIAL/Cryper-Encryption-and-Decryption" />
 </a>
 </div>
