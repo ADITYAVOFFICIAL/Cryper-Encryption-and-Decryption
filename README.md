@@ -30,7 +30,7 @@ Here's how Cryper compares to other popular encryption tools.
 | Reed-Solomon   |✅ Yes         |❌ No           |❌ No          |❌ No           |❌ No          |
 | Compression    |✅ Yes         |❌ No           |✅ Yes         |✅ Yes          |❌ No          |
 | Telemetry      |✅ None        |✅ None         |✅ None        |❓ Unknown      |✅ None        |
-| Audited        |❌ [Donate](https://opencollective.com/Cryper)     |✅ Yes          |❌ No          |❓ Unknown      |✅ Yes         |
+| Audited        |❌ [Donate](https://static.wixstatic.com/media/77aec2_3bc58494d5fd4751af62545d2ec4a9dd~mv2.jpg)     |✅ Yes          |❌ No          |❓ Unknown      |✅ Yes         |
 
 Keep in mind that while Cryper does most things better than other tools, it's not a one-size-fits-all and doesn't try to be. There are use cases such as full-disk encryption where VeraCrypt and BitLocker would be a better choice. So while Cryper is a great choice for the majority of people, you should still do your own research and use what's best for you.
 
@@ -90,3 +90,8 @@ While being simple, Cryper also strives to be powerful in the hands of knowledge
   <img src="https://contrib.rocks/image?repo=ADITYAVOFFICIAL/Cryper-Encryption-and-Decryption" />
 </a>
 </div>
+
+## SUPPORT AT
+<a href="https://static.wixstatic.com/media/77aec2_3bc58494d5fd4751af62545d2ec4a9dd~mv2.jpg" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Payment" target="_blank">
+</a>
